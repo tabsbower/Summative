@@ -11,3 +11,6 @@ statsmodels
 setuptools
 wheel
 nbformat
+plotly
+scipy>=1.11.1
+
